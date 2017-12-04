@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 7 - Card Game", "Lab 7 - Card Game\Lab 7 - Card Game.csproj", "{2B575F0F-6164-478B-B05A-8ECB39D2B8D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69DF44D6-5F29-4BC6-B793-C69521BBD158}"
+	ProjectSection(SolutionItems) = preProject
+		..\GUI Lab - CardLibrary\CardLibrary\Card.cs = ..\GUI Lab - CardLibrary\CardLibrary\Card.cs
+		..\GUI Lab - CardLibrary\CardLibrary\CardLibrary.csproj = ..\GUI Lab - CardLibrary\CardLibrary\CardLibrary.csproj
+		..\GUI Lab - CardLibrary\CardLibrary\Cards.cs = ..\GUI Lab - CardLibrary\CardLibrary\Cards.cs
+		..\GUI Lab - CardLibrary\CardLibrary\Deck.cs = ..\GUI Lab - CardLibrary\CardLibrary\Deck.cs
+		..\GUI Lab - CardLibrary\CardLibrary\Ranks.cs = ..\GUI Lab - CardLibrary\CardLibrary\Ranks.cs
+		..\GUI Lab - CardLibrary\CardLibrary\Suits.cs = ..\GUI Lab - CardLibrary\CardLibrary\Suits.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B575F0F-6164-478B-B05A-8ECB39D2B8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B575F0F-6164-478B-B05A-8ECB39D2B8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B575F0F-6164-478B-B05A-8ECB39D2B8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B575F0F-6164-478B-B05A-8ECB39D2B8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA95766-7248-408C-B602-468F0C53FE1F}
+	EndGlobalSection
+EndGlobal
