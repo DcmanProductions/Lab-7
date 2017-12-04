@@ -1,0 +1,4 @@
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\bin\Debug\CardLibrary.dll
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\bin\Debug\CardLibrary.pdb
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\obj\Debug\CardLibrary.dll
+C:\Users\jgrady\documents\visual studio 2017\Projects\CS225 - GUI Lab\CardLibrary\obj\Debug\CardLibrary.pdb
